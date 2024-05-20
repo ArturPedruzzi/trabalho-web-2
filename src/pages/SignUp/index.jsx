@@ -96,7 +96,7 @@ export function SignUp() {
 
         <Link to="/">
           <FiArrowLeft />
-          Já tenho uma conta
+          Já possuo uma vaga
         </Link>
       </Form>
     </Container>
